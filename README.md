@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oyetundee
-- 👀 I’m interested in DataScience, Machine Learning and Software Engineering
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Data Science and Machine Projects
+- 👀 I’m interested in DataScience, Software Engineering
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on software engineering(frontend)
 - 📫 How to reach me ayeti78@gmail.com / 08104751740
 
 <!---
